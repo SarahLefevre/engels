@@ -6360,7 +6360,7 @@ body {
 }
 .cid-rUkHFLFiJA {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rUkHFLFiJA .mbr-text,
@@ -6369,6 +6369,9 @@ body {
 }
 .cid-rUkHFLFiJA .mbr-text {
   color: #232323;
+}
+.cid-rUkHFLFiJA .mbr-text P {
+  text-align: center;
 }
 .cid-rUkJtIXTR0 {
   padding-top: 120px;
